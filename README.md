@@ -1,32 +1,33 @@
-# react-makes-you-sad
-Here’s a flowchart to make you happy again!
+# react-te-pone-triste
+¡Aquí tenemos un diagrama para hacerte feliz de nuevo!
 
-## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Open in a new tab</a>
+## <a href='https://cdn.rawgit.com/jvalen/react-makes-you-sad/master/fatigue.svg' target='_blank'>Abrir en una nueva pestaña</a>
 
-<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
+<img src='https://cdn.rawgit.com/jvalen/react-makes-you-sad/master/fatigue.svg'>
 
-## Credits
+## Créditos
 
-Based on and inspired by https://github.com/petehunt/react-howto
+Basado e inspirado en https://github.com/petehunt/react-howto
 
-## Contributing
+## Contribuir
 
-1. Edit the `.dot` file with https://atom.io/packages/graphviz-preview
-2. Install `dot` from http://www.graphviz.org/Download.php
-2. Install `dot`, a part of [Graphviz](http://www.graphviz.org/).
-  * On OSX with [Homebrew](http://www.brew.sh), merely do `brew install graphviz`.
-  * Otherwise, it's probably in your OS's package repositories as simply `graphviz`.
-  * You can also get an installer from the [Graphviz downloads page](http://www.graphviz.org/Download.php).
-3. Generate the `.svg` with `dot -Tsvg fatigue.dot > fatigue.svg`
-4. Send a PR!
+1. Edita el fichero `.dot` con https://atom.io/packages/graphviz-preview
+2. Instala `dot` desde http://www.graphviz.org/Download.php
+2. Instala `dot`, como parte de [Graphviz](http://www.graphviz.org/).
+  * En OSX con [Homebrew](http://www.brew.sh), simplemente `brew install graphviz`.
+  * De otra forma, probablemente esté entre los paquetes de los repositorios de tu OS como `graphviz`.
+  * También puedes conseguir un instalador de la [página de descargas de Graphviz](http://www.graphviz.org/Download.php).
+3. Genera el `.svg` con `dot -Tsvg fatigue.dot > fatigue.svg`
+4. ¡Envía una PR!
 
-## Translation
+## Traducción
 
 - [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
 - [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
+- [Spanish](https://github.com/jvalen/react-makes-you-sad)
 
-## License
+## Licencia
 
 [CC0](https://wiki.creativecommons.org/wiki/CC0)
